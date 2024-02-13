@@ -1,0 +1,14 @@
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.AssemblyInfoInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.AssemblyInfo.cs
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.exe
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.deps.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.runtimeconfig.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\refint\MembrosEstaticos.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.genruntimeconfig.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\ref\MembrosEstaticos.dll

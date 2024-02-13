@@ -1,0 +1,14 @@
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ClassTriângulo\ClassTriângulo\obj\Debug\net8.0\ClassTriângulo.GeneratedMSBuildEditorConfig.editorconfig
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ClassTriângulo\ClassTriângulo\obj\Debug\net8.0\ClassTriângulo.AssemblyInfoInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ClassTriângulo\ClassTriângulo\obj\Debug\net8.0\ClassTriângulo.AssemblyInfo.cs
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ClassTriângulo\ClassTriângulo\obj\Debug\net8.0\ClassTriângulo.csproj.CoreCompileInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ClassTriângulo\ClassTriângulo\bin\Debug\net8.0\ClassTriângulo.exe
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ClassTriângulo\ClassTriângulo\bin\Debug\net8.0\ClassTriângulo.deps.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ClassTriângulo\ClassTriângulo\bin\Debug\net8.0\ClassTriângulo.runtimeconfig.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ClassTriângulo\ClassTriângulo\bin\Debug\net8.0\ClassTriângulo.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ClassTriângulo\ClassTriângulo\bin\Debug\net8.0\ClassTriângulo.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ClassTriângulo\ClassTriângulo\obj\Debug\net8.0\ClassTriângulo.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ClassTriângulo\ClassTriângulo\obj\Debug\net8.0\refint\ClassTriângulo.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ClassTriângulo\ClassTriângulo\obj\Debug\net8.0\ClassTriângulo.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ClassTriângulo\ClassTriângulo\obj\Debug\net8.0\ClassTriângulo.genruntimeconfig.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ClassTriângulo\ClassTriângulo\obj\Debug\net8.0\ref\ClassTriângulo.dll

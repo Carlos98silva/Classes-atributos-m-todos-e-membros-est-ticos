@@ -1,0 +1,14 @@
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net8.0\ExercicioFuncionario.exe
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net8.0\ExercicioFuncionario.deps.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net8.0\ExercicioFuncionario.runtimeconfig.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net8.0\ExercicioFuncionario.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net8.0\ExercicioFuncionario.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.AssemblyInfoInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.AssemblyInfo.cs
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.csproj.CoreCompileInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\refint\ExercicioFuncionario.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.genruntimeconfig.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ref\ExercicioFuncionario.dll

@@ -1,0 +1,14 @@
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\Exercicio\Exercicio\bin\Debug\net8.0\Exercicio.exe
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\Exercicio\Exercicio\bin\Debug\net8.0\Exercicio.deps.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\Exercicio\Exercicio\bin\Debug\net8.0\Exercicio.runtimeconfig.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\Exercicio\Exercicio\bin\Debug\net8.0\Exercicio.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\Exercicio\Exercicio\bin\Debug\net8.0\Exercicio.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\Exercicio\Exercicio\obj\Debug\net8.0\Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\Exercicio\Exercicio\obj\Debug\net8.0\Exercicio.AssemblyInfoInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\Exercicio\Exercicio\obj\Debug\net8.0\Exercicio.AssemblyInfo.cs
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\Exercicio\Exercicio\obj\Debug\net8.0\Exercicio.csproj.CoreCompileInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\Exercicio\Exercicio\obj\Debug\net8.0\Exercicio.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\Exercicio\Exercicio\obj\Debug\net8.0\refint\Exercicio.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\Exercicio\Exercicio\obj\Debug\net8.0\Exercicio.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\Exercicio\Exercicio\obj\Debug\net8.0\Exercicio.genruntimeconfig.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Classes, atributos, métodos e membros estáticos\Exercicio\Exercicio\obj\Debug\net8.0\ref\Exercicio.dll
